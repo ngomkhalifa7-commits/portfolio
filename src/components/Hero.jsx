@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 
 const titres = [
   'Étudiant en informatique',
-  'Informaticien junior',
+  'Informaticien ',
   'Passionné de développement web',
   'Entrepreneur',
 ]
@@ -36,7 +36,7 @@ function Hero() {
   return (
     <section id="accueil" className="hero">
       <div className="hero-text">
-        <p className="hero-hello">Salut, moi c'est Khalifa</p>
+        <p className="hero-hello">Salut, moi c'est Seydi Aboubacar</p>
         <h1>Seydi Aboubacar Sy Ngom</h1>
         <h2 className="typing">
           {texte}

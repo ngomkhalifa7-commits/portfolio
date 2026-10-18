@@ -14,7 +14,7 @@ function Navbar() {
 
   return (
     <nav>
-      <a href="#accueil" className="logo" onClick={fermer}>Khalifa</a>
+      <a href="#accueil" className="logo" onClick={fermer}>Seydi Aboubacar Sy Ngom</a>
 
       <ul className={ouvert ? 'open' : ''}>
         <li><a href="#apropos" onClick={fermer}>À propos</a></li>
