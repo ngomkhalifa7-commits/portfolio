@@ -1,4 +1,4 @@
-const competences = ['PostgreSQL', 'SQL', 'React', 'Git & GitHub', 'HTML & CSS', 'JavaScript']
+const competences = ['PostgreSQL', 'SQL', 'React', 'Git & GitHub', 'HTML & CSS', 'JavaScript',]
 
 function Skills() {
   return (
